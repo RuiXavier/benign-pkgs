@@ -1,0 +1,5002 @@
+[
+  {
+    "type": "npm",
+    "name": "typescript",
+    "version": "7.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "prettier",
+    "version": "3.9.10"
+  },
+  {
+    "type": "npm",
+    "name": "babel-loader",
+    "version": "10.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-plugin-import",
+    "version": "2.32.0"
+  },
+  {
+    "type": "npm",
+    "name": "husky",
+    "version": "9.1.7"
+  },
+  {
+    "type": "npm",
+    "name": "ts-node",
+    "version": "10.9.2"
+  },
+  {
+    "type": "npm",
+    "name": "css-loader",
+    "version": "7.1.5"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-plugin-react",
+    "version": "7.37.5"
+  },
+  {
+    "type": "npm",
+    "name": "lint-staged",
+    "version": "17.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "sass-loader",
+    "version": "17.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "commander",
+    "version": "15.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "fs-extra",
+    "version": "11.4.1"
+  },
+  {
+    "type": "npm",
+    "name": "sinon",
+    "version": "22.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "html-webpack-plugin",
+    "version": "5.6.8"
+  },
+  {
+    "type": "npm",
+    "name": "@rollup/plugin-node-resolve",
+    "version": "16.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "prop-types",
+    "version": "15.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "@rollup/plugin-commonjs",
+    "version": "29.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "npm-run-all",
+    "version": "4.1.5"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-loader",
+    "version": "8.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "sass",
+    "version": "1.105.2"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-config-airbnb",
+    "version": "19.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "yargs",
+    "version": "18.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "dotenv",
+    "version": "18.0.8"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-runtime",
+    "version": "8.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "rxjs",
+    "version": "7.8.2"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/react",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "karma-chrome-launcher",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-config-airbnb-base",
+    "version": "15.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "less",
+    "version": "4.9.1"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-typescript2",
+    "version": "0.37.0"
+  },
+  {
+    "type": "npm",
+    "name": "tape",
+    "version": "5.10.3"
+  },
+  {
+    "type": "npm",
+    "name": "antd",
+    "version": "6.6.6"
+  },
+  {
+    "type": "npm",
+    "name": "mkdirp",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "standard",
+    "version": "17.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "vue-router",
+    "version": "5.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "jsdom",
+    "version": "30.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "@rollup/plugin-typescript",
+    "version": "12.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "less-loader",
+    "version": "13.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-polyfill",
+    "version": "6.26.0"
+  },
+  {
+    "type": "npm",
+    "name": "bluebird",
+    "version": "3.7.2"
+  },
+  {
+    "type": "npm",
+    "name": "should",
+    "version": "13.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-peer-deps-external",
+    "version": "2.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-transform-object-rest-spread",
+    "version": "6.26.0"
+  },
+  {
+    "type": "npm",
+    "name": "del",
+    "version": "9.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "zone.js",
+    "version": "0.16.3"
+  },
+  {
+    "type": "npm",
+    "name": "@angular/compiler-cli",
+    "version": "22.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "reflect-metadata",
+    "version": "0.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "karma-mocha",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "concurrently",
+    "version": "10.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-plugin-flowtype",
+    "version": "8.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "source-map-support",
+    "version": "0.5.21"
+  },
+  {
+    "type": "npm",
+    "name": "@vitejs/plugin-vue",
+    "version": "6.0.10"
+  },
+  {
+    "type": "npm",
+    "name": "chokidar",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "execa",
+    "version": "10.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "winston",
+    "version": "3.19.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-dts",
+    "version": "6.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "webpack-node-externals",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jasmine-spec-reporter",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "cssnano",
+    "version": "9.9.0"
+  },
+  {
+    "type": "npm",
+    "name": "regenerator-runtime",
+    "version": "0.14.1"
+  },
+  {
+    "type": "npm",
+    "name": "vite-plugin-dts",
+    "version": "5.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "nock",
+    "version": "15.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "globby",
+    "version": "16.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "size-limit",
+    "version": "14.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-plugin-html",
+    "version": "8.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "pretty-quick",
+    "version": "4.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "@vitejs/plugin-react",
+    "version": "6.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "es6-promise",
+    "version": "4.2.8"
+  },
+  {
+    "type": "npm",
+    "name": "vue-tsc",
+    "version": "3.3.13"
+  },
+  {
+    "type": "npm",
+    "name": "copyfiles",
+    "version": "2.4.1"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-import",
+    "version": "1.13.8"
+  },
+  {
+    "type": "npm",
+    "name": "karma-firefox-launcher",
+    "version": "2.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "resolve",
+    "version": "1.22.13"
+  },
+  {
+    "type": "npm",
+    "name": "tsconfig-paths",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-hot-loader",
+    "version": "4.13.1"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-typescript",
+    "version": "6.0.0-alpha.1"
+  },
+  {
+    "type": "npm",
+    "name": "@react-native-community/eslint-config",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@angular/language-service",
+    "version": "22.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "socket.io-client",
+    "version": "4.8.4"
+  },
+  {
+    "type": "npm",
+    "name": "proxyquire",
+    "version": "2.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-modules-commonjs",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "fast-glob",
+    "version": "3.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "nan",
+    "version": "2.29.0"
+  },
+  {
+    "type": "npm",
+    "name": "portfinder",
+    "version": "1.0.38"
+  },
+  {
+    "type": "npm",
+    "name": "@testing-library/react-hooks",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "react-transition-group",
+    "version": "4.4.5"
+  },
+  {
+    "type": "npm",
+    "name": "grunt-contrib-copy",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "promise",
+    "version": "8.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-url",
+    "version": "10.1.4"
+  },
+  {
+    "type": "npm",
+    "name": "@stencil/core",
+    "version": "4.45.2"
+  },
+  {
+    "type": "npm",
+    "name": "meow",
+    "version": "14.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "ncp",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jest-junit",
+    "version": "17.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/addon-a11y",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-cli",
+    "version": "12.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/blocks",
+    "version": "8.6.14"
+  },
+  {
+    "type": "npm",
+    "name": "ts-node-dev",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "d3",
+    "version": "7.9.0"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/addon-docs",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-styled-components",
+    "version": "2.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "benchmark",
+    "version": "2.1.4"
+  },
+  {
+    "type": "npm",
+    "name": "dotenv-expand",
+    "version": "1000.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "discord.js",
+    "version": "14.27.0"
+  },
+  {
+    "type": "npm",
+    "name": "@svgr/rollup",
+    "version": "8.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "resize-observer-polyfill",
+    "version": "1.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.debounce",
+    "version": "4.0.8"
+  },
+  {
+    "type": "npm",
+    "name": "react-bootstrap",
+    "version": "2.10.10"
+  },
+  {
+    "type": "npm",
+    "name": "npm-check-updates",
+    "version": "23.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "update-notifier",
+    "version": "7.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "resolve-url-loader",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-dynamic-import-node",
+    "version": "2.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-visualizer",
+    "version": "7.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@rollup/plugin-image",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "graceful-fs",
+    "version": "4.2.11"
+  },
+  {
+    "type": "npm",
+    "name": "graphql-tag",
+    "version": "2.12.7"
+  },
+  {
+    "type": "npm",
+    "name": "find-up",
+    "version": "8.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "process",
+    "version": "0.11.10"
+  },
+  {
+    "type": "npm",
+    "name": "@angular/cdk",
+    "version": "22.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-transform-react-remove-prop-types",
+    "version": "0.4.24"
+  },
+  {
+    "type": "npm",
+    "name": "path-exists",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jest-resolve",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "@changesets/cli",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-transform-flow-strip-types",
+    "version": "6.22.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.clonedeep",
+    "version": "4.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "@testing-library/dom",
+    "version": "10.4.2"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/parser",
+    "version": "8.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.camelcase",
+    "version": "4.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-lodash",
+    "version": "3.3.4"
+  },
+  {
+    "type": "npm",
+    "name": "esprima",
+    "version": "4.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "svelte-check",
+    "version": "4.7.7"
+  },
+  {
+    "type": "npm",
+    "name": "decimal.js-light",
+    "version": "2.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "jest-styled-components",
+    "version": "7.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "argparse",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "jsonfile",
+    "version": "6.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "function-bind",
+    "version": "1.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "tsconfig",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "config",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "vuedraggable",
+    "version": "2.24.3"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-esbuild",
+    "version": "6.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "rewire",
+    "version": "9.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "pino",
+    "version": "10.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/addon-storysource",
+    "version": "8.6.14"
+  },
+  {
+    "type": "npm",
+    "name": "readline-sync",
+    "version": "1.4.10"
+  },
+  {
+    "type": "npm",
+    "name": "@rollup/plugin-url",
+    "version": "8.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "tsx",
+    "version": "4.23.15"
+  },
+  {
+    "type": "npm",
+    "name": "tsd",
+    "version": "0.33.0"
+  },
+  {
+    "type": "npm",
+    "name": "pump",
+    "version": "3.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "bindings",
+    "version": "1.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "install",
+    "version": "0.13.0"
+  },
+  {
+    "type": "npm",
+    "name": "typechain",
+    "version": "8.3.2"
+  },
+  {
+    "type": "npm",
+    "name": "tsconfig-paths-webpack-plugin",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "prettier-plugin-svelte",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@rushstack/eslint-patch",
+    "version": "1.16.1"
+  },
+  {
+    "type": "npm",
+    "name": "cosmiconfig",
+    "version": "10.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-proposal-function-sent",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "require-dir",
+    "version": "1.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "chromatic",
+    "version": "18.13.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.throttle",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-normalize",
+    "version": "13.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "systemjs",
+    "version": "6.15.1"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-plugin-security",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "escodegen",
+    "version": "2.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "temp",
+    "version": "0.9.4"
+  },
+  {
+    "type": "npm",
+    "name": "mock-fs",
+    "version": "5.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "make-dir",
+    "version": "5.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "node-gyp",
+    "version": "13.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-typescript",
+    "version": "8.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "tsc-watch",
+    "version": "7.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "resolve-from",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "tsc-alias",
+    "version": "1.9.7"
+  },
+  {
+    "type": "npm",
+    "name": "command-line-args",
+    "version": "6.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "brfs",
+    "version": "2.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "app-root-path",
+    "version": "3.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "is-wsl",
+    "version": "3.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "es6-shim",
+    "version": "0.35.8"
+  },
+  {
+    "type": "npm",
+    "name": "@capacitor/core",
+    "version": "8.5.3"
+  },
+  {
+    "type": "npm",
+    "name": "serve-favicon",
+    "version": "2.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "requireindex",
+    "version": "1.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@swc/jest",
+    "version": "0.2.39"
+  },
+  {
+    "type": "npm",
+    "name": "gzip-size",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "onchange",
+    "version": "7.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "recursive-readdir",
+    "version": "2.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "import-local",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "fs.realpath",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "qrcode",
+    "version": "1.5.4"
+  },
+  {
+    "type": "npm",
+    "name": "readline",
+    "version": "1.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "vite-tsconfig-paths",
+    "version": "6.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/builder-vite",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "@vitejs/plugin-react-swc",
+    "version": "4.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "coffeescript",
+    "version": "2.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "bfj",
+    "version": "9.1.4"
+  },
+  {
+    "type": "npm",
+    "name": "vue-template-es2015-compiler",
+    "version": "1.9.1"
+  },
+  {
+    "type": "npm",
+    "name": "prettier-plugin-organize-imports",
+    "version": "4.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "abort-controller",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "mz",
+    "version": "2.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "@polymer/polymer",
+    "version": "3.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "depd",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-datepicker",
+    "version": "9.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "webpackbar",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "msw",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "isexe",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "require-directory",
+    "version": "2.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "publint",
+    "version": "0.3.25"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-cli",
+    "version": "3.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "jscodeshift",
+    "version": "17.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "object.assign",
+    "version": "4.1.7"
+  },
+  {
+    "type": "npm",
+    "name": "react-syntax-highlighter",
+    "version": "16.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "locate-path",
+    "version": "8.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "read-pkg",
+    "version": "10.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-async-to-generator",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "pino-pretty",
+    "version": "13.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "doctoc",
+    "version": "2.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "eventemitter2",
+    "version": "6.4.9"
+  },
+  {
+    "type": "npm",
+    "name": "tempy",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "unplugin-vue-components",
+    "version": "32.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "cspell",
+    "version": "10.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-node-polyfills",
+    "version": "0.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "patch-package",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "yamljs",
+    "version": "0.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "google-protobuf",
+    "version": "4.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "jest-environment-node",
+    "version": "30.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "chokidar-cli",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "ahooks",
+    "version": "3.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "etag",
+    "version": "1.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "node-watch",
+    "version": "0.7.4"
+  },
+  {
+    "type": "npm",
+    "name": "uvu",
+    "version": "0.5.6"
+  },
+  {
+    "type": "npm",
+    "name": "react-virtualized",
+    "version": "9.22.6"
+  },
+  {
+    "type": "npm",
+    "name": "babylon",
+    "version": "6.18.0"
+  },
+  {
+    "type": "npm",
+    "name": "loose-envify",
+    "version": "1.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "immutability-helper",
+    "version": "3.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@tailwindcss/forms",
+    "version": "0.5.11"
+  },
+  {
+    "type": "npm",
+    "name": "sort-package-json",
+    "version": "4.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "readdirp",
+    "version": "5.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "consolidate",
+    "version": "1.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "escalade",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "redux-mock-store",
+    "version": "1.5.5"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-modules",
+    "version": "9.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "react-docgen",
+    "version": "8.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "common-tags",
+    "version": "1.8.2"
+  },
+  {
+    "type": "npm",
+    "name": "when",
+    "version": "3.7.8"
+  },
+  {
+    "type": "npm",
+    "name": "pngjs",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "require-from-string",
+    "version": "2.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "import-fresh",
+    "version": "4.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-load-config",
+    "version": "6.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "recast",
+    "version": "0.24.0"
+  },
+  {
+    "type": "npm",
+    "name": "plop",
+    "version": "4.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "promise-polyfill",
+    "version": "8.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-node-externals",
+    "version": "9.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@nuxt/kit",
+    "version": "4.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "module-alias",
+    "version": "2.3.4"
+  },
+  {
+    "type": "npm",
+    "name": "unplugin-auto-import",
+    "version": "21.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.uniq",
+    "version": "4.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "opener",
+    "version": "1.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "load-json-file",
+    "version": "7.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "path-type",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "detect-port",
+    "version": "2.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "rsvp",
+    "version": "4.8.5"
+  },
+  {
+    "type": "npm",
+    "name": "enhanced-resolve",
+    "version": "5.26.0"
+  },
+  {
+    "type": "npm",
+    "name": "write-file-atomic",
+    "version": "8.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jest-worker",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "tapable",
+    "version": "2.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "envinfo",
+    "version": "7.21.0"
+  },
+  {
+    "type": "npm",
+    "name": "cron",
+    "version": "4.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "mock-require",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "xml-js",
+    "version": "1.6.11"
+  },
+  {
+    "type": "npm",
+    "name": "split2",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/addon-onboarding",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "touch",
+    "version": "3.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "react-slick",
+    "version": "0.31.0"
+  },
+  {
+    "type": "npm",
+    "name": "svelte2tsx",
+    "version": "0.7.62"
+  },
+  {
+    "type": "npm",
+    "name": "prettier-plugin-tailwindcss",
+    "version": "0.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "pegjs",
+    "version": "0.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "chroma-js",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "istanbul-lib-coverage",
+    "version": "3.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "@prisma/client",
+    "version": "7.10.1"
+  },
+  {
+    "type": "npm",
+    "name": "lowdb",
+    "version": "7.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "errorhandler",
+    "version": "1.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "ink",
+    "version": "8.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "winston-daily-rotate-file",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "buble",
+    "version": "0.20.0"
+  },
+  {
+    "type": "npm",
+    "name": "normalize-package-data",
+    "version": "9.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@nestjs/config",
+    "version": "12.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-polyfill-node",
+    "version": "0.13.0"
+  },
+  {
+    "type": "npm",
+    "name": "@nestjs/swagger",
+    "version": "12.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "qrcode-terminal",
+    "version": "0.12.0"
+  },
+  {
+    "type": "npm",
+    "name": "@antfu/ni",
+    "version": "30.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "setimmediate",
+    "version": "1.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "address",
+    "version": "2.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "destroy",
+    "version": "1.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "es-abstract",
+    "version": "1.24.2"
+  },
+  {
+    "type": "npm",
+    "name": "command-line-usage",
+    "version": "7.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "@mdx-js/mdx",
+    "version": "3.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "pirates",
+    "version": "4.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "pkginfo",
+    "version": "0.4.1"
+  },
+  {
+    "type": "npm",
+    "name": "axe-core",
+    "version": "4.14.0"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/vue3",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "jest-haste-map",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "js-sha256",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@vercel/ncc",
+    "version": "0.45.0"
+  },
+  {
+    "type": "npm",
+    "name": "dts-bundle-generator",
+    "version": "9.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "mapbox-gl",
+    "version": "3.33.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-error-overlay",
+    "version": "6.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "blessed",
+    "version": "0.1.81"
+  },
+  {
+    "type": "npm",
+    "name": "openai",
+    "version": "7.35.0"
+  },
+  {
+    "type": "npm",
+    "name": "cpy",
+    "version": "13.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "walk",
+    "version": "2.3.15"
+  },
+  {
+    "type": "npm",
+    "name": "env-cmd",
+    "version": "11.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "is-docker",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "slate",
+    "version": "0.142.1"
+  },
+  {
+    "type": "npm",
+    "name": "jest-util",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "recharts",
+    "version": "3.10.1"
+  },
+  {
+    "type": "npm",
+    "name": "jsii-pacmak",
+    "version": "1.141.0"
+  },
+  {
+    "type": "npm",
+    "name": "istanbul-lib-instrument",
+    "version": "6.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "semantic-ui-react",
+    "version": "2.1.5"
+  },
+  {
+    "type": "npm",
+    "name": "react-jss",
+    "version": "10.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "puppeteer-core",
+    "version": "25.14.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.memoize",
+    "version": "4.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "node-dir",
+    "version": "0.1.17"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.kebabcase",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "redux-form",
+    "version": "8.3.10"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.isfunction",
+    "version": "3.0.9"
+  },
+  {
+    "type": "npm",
+    "name": "sanitize-filename",
+    "version": "1.6.4"
+  },
+  {
+    "type": "npm",
+    "name": "lz-string",
+    "version": "1.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "rx",
+    "version": "4.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "tmp-promise",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "react-docgen-typescript",
+    "version": "2.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "source-map-explorer",
+    "version": "2.5.3"
+  },
+  {
+    "type": "npm",
+    "name": "v8-compile-cache",
+    "version": "2.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.isempty",
+    "version": "4.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "regenerator-transform",
+    "version": "0.15.2"
+  },
+  {
+    "type": "npm",
+    "name": "json-schema-to-typescript",
+    "version": "16.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-loadable",
+    "version": "5.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "redux-persist",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "needle",
+    "version": "3.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "node-localstorage",
+    "version": "3.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "fb-watchman",
+    "version": "2.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "dockerode",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "typescript-plugin-css-modules",
+    "version": "5.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "istanbul-lib-report",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "ace-builds",
+    "version": "1.45.0"
+  },
+  {
+    "type": "npm",
+    "name": "ast-types",
+    "version": "0.16.3"
+  },
+  {
+    "type": "npm",
+    "name": "stack-utils",
+    "version": "2.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "walker",
+    "version": "1.0.8"
+  },
+  {
+    "type": "npm",
+    "name": "safe-regex",
+    "version": "2.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "google-auth-library",
+    "version": "11.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "bowser",
+    "version": "2.14.1"
+  },
+  {
+    "type": "npm",
+    "name": "jsencrypt",
+    "version": "3.5.4"
+  },
+  {
+    "type": "npm",
+    "name": "styled-jsx",
+    "version": "5.1.7"
+  },
+  {
+    "type": "npm",
+    "name": "jss",
+    "version": "10.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "sucrase",
+    "version": "3.35.1"
+  },
+  {
+    "type": "npm",
+    "name": "react-json-view",
+    "version": "1.21.3"
+  },
+  {
+    "type": "npm",
+    "name": "istanbul-lib-source-maps",
+    "version": "5.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "@grpc/proto-loader",
+    "version": "0.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.map",
+    "version": "4.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "update-browserslist-db",
+    "version": "1.3.4"
+  },
+  {
+    "type": "npm",
+    "name": "run-async",
+    "version": "4.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "xregexp",
+    "version": "5.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "watchpack",
+    "version": "2.6.1"
+  },
+  {
+    "type": "npm",
+    "name": "sockjs-client",
+    "version": "1.6.1"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.sortby",
+    "version": "4.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "@nuxt/test-utils",
+    "version": "4.3.4"
+  },
+  {
+    "type": "npm",
+    "name": "fetch-jsonp",
+    "version": "1.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "esbuild-register",
+    "version": "3.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "klaw",
+    "version": "4.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "csso",
+    "version": "5.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "node-cron",
+    "version": "4.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "jest-image-snapshot",
+    "version": "6.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-html",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-polyfill-corejs3",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "store",
+    "version": "2.0.12"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-mixins",
+    "version": "12.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "license-checker",
+    "version": "25.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "json2csv",
+    "version": "6.0.0-alpha.2"
+  },
+  {
+    "type": "npm",
+    "name": "rechoir",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "chardet",
+    "version": "2.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.flatten",
+    "version": "4.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@sveltejs/vite-plugin-svelte",
+    "version": "7.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "stripe",
+    "version": "23.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-preset-expo",
+    "version": "58.0.17"
+  },
+  {
+    "type": "npm",
+    "name": "connect-redis",
+    "version": "10.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "findup-sync",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "conventional-recommended-bump",
+    "version": "12.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "brace",
+    "version": "0.11.1"
+  },
+  {
+    "type": "npm",
+    "name": "any-promise",
+    "version": "1.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "md5-file",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "fixpack",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "v8-to-istanbul",
+    "version": "9.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "@vitejs/plugin-legacy",
+    "version": "8.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "jest-leak-detector",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "@uiw/react-md-editor",
+    "version": "4.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "react-player",
+    "version": "3.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-ace",
+    "version": "15.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "tar-stream",
+    "version": "3.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "slate-react",
+    "version": "0.142.0"
+  },
+  {
+    "type": "npm",
+    "name": "enquire.js",
+    "version": "2.1.6"
+  },
+  {
+    "type": "npm",
+    "name": "@fullhuman/postcss-purgecss",
+    "version": "8.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "get-package-type",
+    "version": "0.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-transform-imports",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jest-sonar-reporter",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@nestjs/typeorm",
+    "version": "12.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@changesets/changelog-github",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "ionicons",
+    "version": "8.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "tiny-glob",
+    "version": "0.2.9"
+  },
+  {
+    "type": "npm",
+    "name": "liftoff",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "css-tree",
+    "version": "3.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "react-spinners",
+    "version": "0.17.1"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.find",
+    "version": "4.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "loader-runner",
+    "version": "4.3.2"
+  },
+  {
+    "type": "npm",
+    "name": "@svgr/core",
+    "version": "8.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "yalc",
+    "version": "1.0.0-pre.53"
+  },
+  {
+    "type": "npm",
+    "name": "fs-jetpack",
+    "version": "5.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "svgo-loader",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "find-root",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "ftp",
+    "version": "0.3.10"
+  },
+  {
+    "type": "npm",
+    "name": "isbinaryfile",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "ts-patch",
+    "version": "4.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@elastic/elasticsearch",
+    "version": "9.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "hasha",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "errno",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "get-symbol-description",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "jiti",
+    "version": "2.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "bytebuffer",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/source-loader",
+    "version": "8.6.14"
+  },
+  {
+    "type": "npm",
+    "name": "koa-send",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "dashdash",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "fs-readdir-recursive",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "sane",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "node-stream-zip",
+    "version": "1.16.0"
+  },
+  {
+    "type": "npm",
+    "name": "concat",
+    "version": "1.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "lottie-web",
+    "version": "5.13.0"
+  },
+  {
+    "type": "npm",
+    "name": "postcss-modules-values",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "vm-browserify",
+    "version": "1.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "@tensorflow/tfjs",
+    "version": "4.22.0"
+  },
+  {
+    "type": "npm",
+    "name": "i18n",
+    "version": "0.15.4"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.uniqby",
+    "version": "4.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-parameters",
+    "version": "8.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "@sinclair/typebox",
+    "version": "0.34.52"
+  },
+  {
+    "type": "npm",
+    "name": "mv",
+    "version": "2.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@vitest/coverage-istanbul",
+    "version": "5.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "connected-react-router",
+    "version": "6.9.3"
+  },
+  {
+    "type": "npm",
+    "name": "is-directory",
+    "version": "0.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "@stdlib/utils-library-manifest",
+    "version": "0.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "exec-sh",
+    "version": "0.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "tiny-lr",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "micro",
+    "version": "10.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "write",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "typedi",
+    "version": "0.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-live",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "cli-highlight",
+    "version": "2.1.11"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.snakecase",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "react-ga",
+    "version": "3.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "args",
+    "version": "5.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "@iarna/toml",
+    "version": "2.2.5"
+  },
+  {
+    "type": "npm",
+    "name": "sqlite",
+    "version": "5.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "node-gyp-build",
+    "version": "4.8.4"
+  },
+  {
+    "type": "npm",
+    "name": "directory-tree",
+    "version": "3.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "registry-url",
+    "version": "7.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.upperfirst",
+    "version": "4.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "hogan.js",
+    "version": "3.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "unplugin",
+    "version": "3.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "app-module-path",
+    "version": "2.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "ndarray",
+    "version": "1.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "babel-preset-fbjs",
+    "version": "3.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@stdlib/fs-read-file",
+    "version": "0.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-module-utils",
+    "version": "2.14.0"
+  },
+  {
+    "type": "npm",
+    "name": "symbol-observable",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jsonparse",
+    "version": "1.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "vite-plugin-svgr",
+    "version": "5.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@mui/x-data-grid",
+    "version": "9.15.0"
+  },
+  {
+    "type": "npm",
+    "name": "from2",
+    "version": "2.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "node-ssh",
+    "version": "13.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "temp-dir",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "metro",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "vscode-languageserver",
+    "version": "10.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "@webcomponents/custom-elements",
+    "version": "1.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "lunr",
+    "version": "2.3.9"
+  },
+  {
+    "type": "npm",
+    "name": "lorem-ipsum",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "is-installed-globally",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "await-to-js",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "write-json-file",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "ansi-to-html",
+    "version": "0.7.2"
+  },
+  {
+    "type": "npm",
+    "name": "amdefine",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "bottleneck",
+    "version": "2.19.5"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-transform-async-to-promises",
+    "version": "0.8.18"
+  },
+  {
+    "type": "npm",
+    "name": "puppeteer-extra",
+    "version": "3.3.6"
+  },
+  {
+    "type": "npm",
+    "name": "os-name",
+    "version": "7.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "opencollective-postinstall",
+    "version": "2.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.groupby",
+    "version": "4.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "@swc-node/register",
+    "version": "1.12.1"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.mapvalues",
+    "version": "4.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "smart-buffer",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "google-libphonenumber",
+    "version": "3.2.47"
+  },
+  {
+    "type": "npm",
+    "name": "@mapbox/node-pre-gyp",
+    "version": "2.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "local-pkg",
+    "version": "1.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "browser-resolve",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-minify-dead-code-elimination",
+    "version": "0.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "@napi-rs/cli",
+    "version": "3.10.8"
+  },
+  {
+    "type": "npm",
+    "name": "cls-hooked",
+    "version": "4.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "fake-indexeddb",
+    "version": "6.2.6"
+  },
+  {
+    "type": "npm",
+    "name": "bplist-parser",
+    "version": "0.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "getpass",
+    "version": "0.1.7"
+  },
+  {
+    "type": "npm",
+    "name": "pdfkit",
+    "version": "0.20.2"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.has",
+    "version": "4.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "cron-parser",
+    "version": "5.10.2"
+  },
+  {
+    "type": "npm",
+    "name": "react-dates",
+    "version": "21.8.0"
+  },
+  {
+    "type": "npm",
+    "name": "wolfy87-eventemitter",
+    "version": "5.2.9"
+  },
+  {
+    "type": "npm",
+    "name": "@actions/github",
+    "version": "9.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "mem-fs",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@clack/prompts",
+    "version": "1.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "sift",
+    "version": "17.1.4"
+  },
+  {
+    "type": "npm",
+    "name": "npm-run-all2",
+    "version": "9.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "amazon-cognito-identity-js",
+    "version": "6.3.22"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/standalone",
+    "version": "8.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "zen-observable",
+    "version": "0.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "import-from",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-infinite-scroll-component",
+    "version": "7.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "worker-farm",
+    "version": "1.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-native-paper",
+    "version": "5.15.3"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.difference",
+    "version": "4.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "workerpool",
+    "version": "10.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "inline-style-prefixer",
+    "version": "7.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/vue3-vite",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "globalthis",
+    "version": "1.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "jetifier",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "blakejs",
+    "version": "1.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "create-require",
+    "version": "1.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "metro-config",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "ts-proto",
+    "version": "2.15.3"
+  },
+  {
+    "type": "npm",
+    "name": "puppeteer-extra-plugin-stealth",
+    "version": "2.11.2"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-vue",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "expect.js",
+    "version": "0.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "less-plugin-sass2less",
+    "version": "1.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "load-grunt-tasks",
+    "version": "5.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "vinyl-source-stream",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-less",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "ember-export-application-global",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-load-plugins",
+    "version": "2.0.8"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-clean",
+    "version": "0.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "pod-install",
+    "version": "1.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "jsdoc-to-markdown",
+    "version": "9.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "loader.js",
+    "version": "4.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "vinyl-buffer",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "ant-design-vue",
+    "version": "4.2.6"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-component",
+    "version": "1.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "power-assert",
+    "version": "1.6.1"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-livereload",
+    "version": "2.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "unbuild",
+    "version": "3.6.1"
+  },
+  {
+    "type": "npm",
+    "name": "tslint-loader",
+    "version": "3.5.4"
+  },
+  {
+    "type": "npm",
+    "name": "bumpp",
+    "version": "12.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "ttypescript",
+    "version": "1.5.15"
+  },
+  {
+    "type": "npm",
+    "name": "tsickle",
+    "version": "0.46.3"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-shell",
+    "version": "0.8.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-svelte",
+    "version": "7.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "selenium-server",
+    "version": "3.141.59"
+  },
+  {
+    "type": "npm",
+    "name": "auto-changelog",
+    "version": "2.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-sass",
+    "version": "1.16.0-rc.1"
+  },
+  {
+    "type": "npm",
+    "name": "grunt-bump",
+    "version": "0.8.0"
+  },
+  {
+    "type": "npm",
+    "name": "vows",
+    "version": "0.8.3"
+  },
+  {
+    "type": "npm",
+    "name": "@web/test-runner",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@umijs/test",
+    "version": "4.7.24"
+  },
+  {
+    "type": "npm",
+    "name": "@web/dev-server",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "faucet",
+    "version": "0.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "semistandard",
+    "version": "17.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "downlevel-dts",
+    "version": "0.11.0"
+  },
+  {
+    "type": "npm",
+    "name": "metalsmith",
+    "version": "2.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "@ember/optional-features",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "test",
+    "version": "3.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-license",
+    "version": "3.7.1"
+  },
+  {
+    "type": "npm",
+    "name": "blanket",
+    "version": "1.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "file-save",
+    "version": "0.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-exclude-gitignore",
+    "version": "1.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "clean-package",
+    "version": "2.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "ali-oss",
+    "version": "6.23.0"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-git",
+    "version": "2.11.0"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-changed",
+    "version": "5.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "@ava/typescript",
+    "version": "7.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "markdown-it-chain",
+    "version": "1.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "autod-egg",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "ts-helpers",
+    "version": "1.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "to-string-loader",
+    "version": "1.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "remap-istanbul",
+    "version": "0.13.0"
+  },
+  {
+    "type": "npm",
+    "name": "karma-phantomjs-shim",
+    "version": "1.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-regenerator-runtime",
+    "version": "6.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "homebridge",
+    "version": "2.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@capacitor/docgen",
+    "version": "0.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-clear",
+    "version": "2.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "grunt-contrib-qunit",
+    "version": "11.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "sirv-cli",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "grunt-exec",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "clean-css-cli",
+    "version": "5.6.3"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-progress",
+    "version": "1.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "sass-resources-loader",
+    "version": "2.2.5"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-import-css",
+    "version": "4.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "ember-template-lint",
+    "version": "7.9.4"
+  },
+  {
+    "type": "npm",
+    "name": "@rollup/plugin-eslint",
+    "version": "9.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@custom-elements-manifest/analyzer",
+    "version": "0.11.0"
+  },
+  {
+    "type": "npm",
+    "name": "register-service-worker",
+    "version": "1.7.2"
+  },
+  {
+    "type": "npm",
+    "name": "prompt-sync",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@hot-loader/react-dom",
+    "version": "17.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/html",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "testdouble",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "coz",
+    "version": "7.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "copy",
+    "version": "0.3.2"
+  },
+  {
+    "type": "npm",
+    "name": "antd-mobile",
+    "version": "5.43.0"
+  },
+  {
+    "type": "npm",
+    "name": "ts-generator",
+    "version": "0.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@stdlib/assert-is-browser",
+    "version": "0.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "exorcist",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "grunt-newer",
+    "version": "1.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "install-peers-cli",
+    "version": "2.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "copy-dir",
+    "version": "1.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "semantic-ui-css",
+    "version": "2.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "reqwest",
+    "version": "2.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-cleaner",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "coffee-coverage",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-inline-react-svg",
+    "version": "2.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-inline-ng2-template",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "qiniu",
+    "version": "7.15.2"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-multi-input",
+    "version": "1.9.0"
+  },
+  {
+    "type": "npm",
+    "name": "intelli-espower-loader",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "babelrc-rollup",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-includepaths",
+    "version": "0.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "node-cmd",
+    "version": "6.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@11ty/eleventy",
+    "version": "3.1.7"
+  },
+  {
+    "type": "npm",
+    "name": "safe-publish-latest",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "react-custom-scrollbars",
+    "version": "4.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "typescript-formatter",
+    "version": "7.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "require-all",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "parallelshell",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-tester",
+    "version": "12.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "unexpected",
+    "version": "13.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "jsii-docgen",
+    "version": "10.12.7"
+  },
+  {
+    "type": "npm",
+    "name": "generate-changelog",
+    "version": "1.8.0"
+  },
+  {
+    "type": "npm",
+    "name": "write-file-webpack-plugin",
+    "version": "4.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "karma-detect-browsers",
+    "version": "2.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "changelogen",
+    "version": "0.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "esbuild-node-externals",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "google-closure-compiler",
+    "version": "20261015.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jasmine-reporters",
+    "version": "2.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "babel-watch",
+    "version": "7.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "ytdl-core",
+    "version": "4.11.5"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-config-defaults",
+    "version": "9.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "nps",
+    "version": "5.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "ionic-angular",
+    "version": "3.9.10"
+  },
+  {
+    "type": "npm",
+    "name": "feather-icons",
+    "version": "4.29.2"
+  },
+  {
+    "type": "npm",
+    "name": "eslint-find-rules",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "testcafe",
+    "version": "3.7.6"
+  },
+  {
+    "type": "npm",
+    "name": "node-sass-tilde-importer",
+    "version": "1.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "preact-compat",
+    "version": "3.19.0"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-local-resolve",
+    "version": "1.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "@embroider/test-setup",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-copy",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "pkg-install",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "ts-standard",
+    "version": "12.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "customize-cra",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jit-grunt",
+    "version": "0.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "minify",
+    "version": "15.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "@ava/babel",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "svelte-loader",
+    "version": "3.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "@hapi/lab",
+    "version": "26.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@vue/vue3-jest",
+    "version": "29.2.6"
+  },
+  {
+    "type": "npm",
+    "name": "radium",
+    "version": "0.26.2"
+  },
+  {
+    "type": "npm",
+    "name": "vue-cli-plugin-element",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "travis-cov",
+    "version": "0.2.5"
+  },
+  {
+    "type": "npm",
+    "name": "highland",
+    "version": "2.13.5"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-newer",
+    "version": "1.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "webpack-visualizer-plugin",
+    "version": "0.1.11"
+  },
+  {
+    "type": "npm",
+    "name": "gulp-gzip",
+    "version": "1.4.2"
+  },
+  {
+    "type": "npm",
+    "name": "prepend-file",
+    "version": "2.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "livereload",
+    "version": "0.10.3"
+  },
+  {
+    "type": "npm",
+    "name": "@metamask/auto-changelog",
+    "version": "6.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "node-persist",
+    "version": "4.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "supervisor",
+    "version": "0.12.0"
+  },
+  {
+    "type": "npm",
+    "name": "dts-generator",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "handlebars-loader",
+    "version": "1.7.3"
+  },
+  {
+    "type": "npm",
+    "name": "uglifycss",
+    "version": "0.0.29"
+  },
+  {
+    "type": "npm",
+    "name": "g",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "wiredep",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "better-npm-run",
+    "version": "0.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "copy-paste",
+    "version": "2.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "scss",
+    "version": "0.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "bundle-collapser",
+    "version": "1.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "duplicate-package-checker-webpack-plugin",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "derequire",
+    "version": "2.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "tracer",
+    "version": "1.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "@metamask/eslint-config-nodejs",
+    "version": "15.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@iconify/json",
+    "version": "2.2.544"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/web-components",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "rollup-plugin-gzip",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "yaml-front-matter",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "chai-fs",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "assemblyscript",
+    "version": "0.28.20"
+  },
+  {
+    "type": "npm",
+    "name": "@stdlib/utils-try-require",
+    "version": "0.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "ember-cli-github-pages",
+    "version": "0.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "@jupyterlab/coreutils",
+    "version": "6.6.4"
+  },
+  {
+    "type": "npm",
+    "name": "jsonld",
+    "version": "9.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@alcalzone/release-script-plugin-license",
+    "version": "5.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "es-check",
+    "version": "9.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "selenium-standalone",
+    "version": "10.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@alcalzone/release-script-plugin-iobroker",
+    "version": "5.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-standalone",
+    "version": "6.26.0"
+  },
+  {
+    "type": "npm",
+    "name": "webpack-shell-plugin",
+    "version": "0.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "japa",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "jslint",
+    "version": "0.12.1"
+  },
+  {
+    "type": "npm",
+    "name": "surge",
+    "version": "0.44.6"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-espower",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "path-scurry",
+    "version": "2.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "detect-libc",
+    "version": "2.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "tinyglobby",
+    "version": "0.2.17"
+  },
+  {
+    "type": "npm",
+    "name": "fdir",
+    "version": "6.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "foreground-child",
+    "version": "4.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "@eslint/eslintrc",
+    "version": "3.3.7"
+  },
+  {
+    "type": "npm",
+    "name": "@typescript-eslint/tsconfig-utils",
+    "version": "8.71.2"
+  },
+  {
+    "type": "npm",
+    "name": "@nodelib/fs.scandir",
+    "version": "4.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@nodelib/fs.stat",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/semantic-conventions",
+    "version": "1.43.0"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/resources",
+    "version": "2.12.0"
+  },
+  {
+    "type": "npm",
+    "name": "@eslint/config-helpers",
+    "version": "0.7.0"
+  },
+  {
+    "type": "npm",
+    "name": "package-json-from-dist",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@vitest/utils",
+    "version": "5.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "tinyexec",
+    "version": "1.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "get-tsconfig",
+    "version": "4.14.3"
+  },
+  {
+    "type": "npm",
+    "name": "@aws-sdk/token-providers",
+    "version": "3.1152.0"
+  },
+  {
+    "type": "npm",
+    "name": "@vitest/snapshot",
+    "version": "5.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "@aws-sdk/credential-provider-web-identity",
+    "version": "3.972.80"
+  },
+  {
+    "type": "npm",
+    "name": "@aws-sdk/credential-provider-process",
+    "version": "3.972.74"
+  },
+  {
+    "type": "npm",
+    "name": "@aws-sdk/credential-provider-http",
+    "version": "3.972.76"
+  },
+  {
+    "type": "npm",
+    "name": "gcp-metadata",
+    "version": "9.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "@emnapi/runtime",
+    "version": "1.11.3"
+  },
+  {
+    "type": "npm",
+    "name": "read-cache",
+    "version": "1.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "why-is-node-running",
+    "version": "3.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "@sinonjs/commons",
+    "version": "4.0.0-alpha.0"
+  },
+  {
+    "type": "npm",
+    "name": "@napi-rs/wasm-runtime",
+    "version": "1.2.5"
+  },
+  {
+    "type": "npm",
+    "name": "async-function",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@protobufjs/inquire",
+    "version": "1.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "@tailwindcss/node",
+    "version": "4.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "@tailwindcss/oxide",
+    "version": "4.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "@colors/colors",
+    "version": "1.6.1"
+  },
+  {
+    "type": "npm",
+    "name": "@protobufjs/fetch",
+    "version": "1.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/helper-define-polyfill-provider",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-block-scoping",
+    "version": "8.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "zod-to-json-schema",
+    "version": "3.25.2"
+  },
+  {
+    "type": "npm",
+    "name": "@jest/source-map",
+    "version": "30.5.2"
+  },
+  {
+    "type": "npm",
+    "name": "@emnapi/core",
+    "version": "1.11.3"
+  },
+  {
+    "type": "npm",
+    "name": "require-in-the-middle",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@npmcli/fs",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "pkg-types",
+    "version": "2.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "unicorn-magic",
+    "version": "0.4.1"
+  },
+  {
+    "type": "npm",
+    "name": "@humanwhocodes/module-importer",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@istanbuljs/load-nyc-config",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "is-inside-container",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "v8-compile-cache-lib",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "fetch-blob",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "run-applescript",
+    "version": "7.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "default-browser-id",
+    "version": "5.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "wsl-utils",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@aws-sdk/credential-provider-login",
+    "version": "3.972.81"
+  },
+  {
+    "type": "npm",
+    "name": "fs-constants",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/otlp-exporter-base",
+    "version": "0.223.0"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-async-generator-functions",
+    "version": "8.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "default-browser",
+    "version": "5.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "fs-minipass",
+    "version": "3.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "pg-connection-string",
+    "version": "2.14.1"
+  },
+  {
+    "type": "npm",
+    "name": "fd-slicer",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "sonic-boom",
+    "version": "5.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-object-rest-spread",
+    "version": "8.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "pino-abstract-transport",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "gtoken",
+    "version": "8.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@tailwindcss/vite",
+    "version": "4.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "global-prefix",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@next/env",
+    "version": "16.4.2"
+  },
+  {
+    "type": "npm",
+    "name": "@inquirer/external-editor",
+    "version": "3.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "thread-stream",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "totalist",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "is-bun-module",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "hermes-parser",
+    "version": "0.37.0"
+  },
+  {
+    "type": "npm",
+    "name": "bare-path",
+    "version": "3.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "real-require",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "magicast",
+    "version": "0.5.5"
+  },
+  {
+    "type": "npm",
+    "name": "mkdirp-classic",
+    "version": "0.5.3"
+  },
+  {
+    "type": "npm",
+    "name": "node-abi",
+    "version": "4.38.0"
+  },
+  {
+    "type": "npm",
+    "name": "mlly",
+    "version": "1.8.2"
+  },
+  {
+    "type": "npm",
+    "name": "fastest-levenshtein",
+    "version": "1.0.16"
+  },
+  {
+    "type": "npm",
+    "name": "strtok3",
+    "version": "10.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "rolldown",
+    "version": "1.2.14"
+  },
+  {
+    "type": "npm",
+    "name": "@cspotcode/source-map-support",
+    "version": "0.8.1"
+  },
+  {
+    "type": "npm",
+    "name": "vite-node",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "generator-function",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "fs-monkey",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@babel/plugin-transform-explicit-resource-management",
+    "version": "8.0.5"
+  },
+  {
+    "type": "npm",
+    "name": "@tailwindcss/postcss",
+    "version": "4.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "bs-logger",
+    "version": "0.2.6"
+  },
+  {
+    "type": "npm",
+    "name": "@nolyfill/is-core-module",
+    "version": "1.0.39"
+  },
+  {
+    "type": "npm",
+    "name": "@vue/compiler-core",
+    "version": "3.5.44"
+  },
+  {
+    "type": "npm",
+    "name": "@noble/curves",
+    "version": "2.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@vue/compiler-dom",
+    "version": "3.5.44"
+  },
+  {
+    "type": "npm",
+    "name": "unenv",
+    "version": "1.10.0"
+  },
+  {
+    "type": "npm",
+    "name": "pidtree",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "vitefu",
+    "version": "1.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "fn.name",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "napi-build-utils",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "ast-v8-to-istanbul",
+    "version": "1.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "@asamuzakjp/nwsapi",
+    "version": "2.3.9"
+  },
+  {
+    "type": "npm",
+    "name": "youch",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "html-minifier-terser",
+    "version": "7.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "joycon",
+    "version": "3.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "youch-core",
+    "version": "0.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "config-chain",
+    "version": "1.1.13"
+  },
+  {
+    "type": "npm",
+    "name": "node-gyp-build-optional-packages",
+    "version": "5.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "import-meta-resolve",
+    "version": "4.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@puppeteer/browsers",
+    "version": "3.2.5"
+  },
+  {
+    "type": "npm",
+    "name": "@jsonjoy.com/util",
+    "version": "18.30.0"
+  },
+  {
+    "type": "npm",
+    "name": "@yarnpkg/lockfile",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@tootallnate/quickjs-emscripten",
+    "version": "0.23.0"
+  },
+  {
+    "type": "npm",
+    "name": "node-fetch-native",
+    "version": "1.6.7"
+  },
+  {
+    "type": "npm",
+    "name": "@cloudflare/unenv-preset",
+    "version": "2.16.2"
+  },
+  {
+    "type": "npm",
+    "name": "xmlbuilder2",
+    "version": "4.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "@isaacs/fs-minipass",
+    "version": "4.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "giget",
+    "version": "3.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/otlp-grpc-exporter-base",
+    "version": "0.223.0"
+  },
+  {
+    "type": "npm",
+    "name": "package-manager-detector",
+    "version": "1.9.0"
+  },
+  {
+    "type": "npm",
+    "name": "homedir-polyfill",
+    "version": "1.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "rw",
+    "version": "1.3.3"
+  },
+  {
+    "type": "npm",
+    "name": "rc9",
+    "version": "3.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.truncate",
+    "version": "4.4.2"
+  },
+  {
+    "type": "npm",
+    "name": "empathic",
+    "version": "2.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "help-me",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@jest/snapshot-utils",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "c12",
+    "version": "3.3.4"
+  },
+  {
+    "type": "npm",
+    "name": "@paralleldrive/cuid2",
+    "version": "3.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "nypm",
+    "version": "0.6.10"
+  },
+  {
+    "type": "npm",
+    "name": "arch",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "npm-install-checks",
+    "version": "9.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "npm-bundled",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@asamuzakjp/dom-selector",
+    "version": "10.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "@npmcli/promise-spawn",
+    "version": "10.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.escaperegexp",
+    "version": "4.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "d3-dsv",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@azure/msal-browser",
+    "version": "5.25.1"
+  },
+  {
+    "type": "npm",
+    "name": "formdata-node",
+    "version": "6.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "googleapis-common",
+    "version": "9.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "@shikijs/langs",
+    "version": "4.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "google-gax",
+    "version": "6.12.1"
+  },
+  {
+    "type": "npm",
+    "name": "@napi-rs/canvas",
+    "version": "1.0.11"
+  },
+  {
+    "type": "npm",
+    "name": "motion",
+    "version": "14.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "simple-update-notifier",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.union",
+    "version": "4.6.0"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-codegen/plugin-helpers",
+    "version": "7.4.2"
+  },
+  {
+    "type": "npm",
+    "name": "@prisma/get-platform",
+    "version": "7.10.1"
+  },
+  {
+    "type": "npm",
+    "name": "metro-runtime",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "@npmcli/node-gyp",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "metro-symbolicate",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "pstree.remy",
+    "version": "1.1.8"
+  },
+  {
+    "type": "npm",
+    "name": "typical",
+    "version": "7.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "@jsonjoy.com/codegen",
+    "version": "18.30.0"
+  },
+  {
+    "type": "npm",
+    "name": "cfb",
+    "version": "1.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "@jest/create-cache-key-function",
+    "version": "30.5.1"
+  },
+  {
+    "type": "npm",
+    "name": "@npmcli/installed-package-contents",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@expo/json-file",
+    "version": "11.2.1"
+  },
+  {
+    "type": "npm",
+    "name": "metro-transform-worker",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "metro-cache-key",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "@base44/vite-plugin",
+    "version": "1.0.47"
+  },
+  {
+    "type": "npm",
+    "name": "global-directory",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@whatwg-node/node-fetch",
+    "version": "0.9.1"
+  },
+  {
+    "type": "npm",
+    "name": "metro-transform-plugins",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "metro-cache",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "wmf",
+    "version": "1.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "jsdoc-type-pratt-parser",
+    "version": "9.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "@kwsites/file-exists",
+    "version": "1.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "pgpass",
+    "version": "1.0.6"
+  },
+  {
+    "type": "npm",
+    "name": "format",
+    "version": "0.2.2"
+  },
+  {
+    "type": "npm",
+    "name": "fast-redact",
+    "version": "3.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "yaml-ast-parser",
+    "version": "0.0.43"
+  },
+  {
+    "type": "npm",
+    "name": "metro-file-map",
+    "version": "0.87.1"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.flattendeep",
+    "version": "4.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@pnpm/network.ca-file",
+    "version": "1100.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "chevrotain",
+    "version": "13.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "find-up-simple",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "builtin-status-codes",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@fast-csv/format",
+    "version": "5.0.8"
+  },
+  {
+    "type": "npm",
+    "name": "infer-owner",
+    "version": "1.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "comment-parser",
+    "version": "1.4.9"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-tools/load",
+    "version": "8.1.21"
+  },
+  {
+    "type": "npm",
+    "name": "adjust-sourcemap-loader",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@actions/io",
+    "version": "3.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@slack/web-api",
+    "version": "8.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "crossws",
+    "version": "0.4.15"
+  },
+  {
+    "type": "npm",
+    "name": "better-opn",
+    "version": "3.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@mui/utils",
+    "version": "9.5.0"
+  },
+  {
+    "type": "npm",
+    "name": "lodash.startcase",
+    "version": "4.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "postgres",
+    "version": "3.4.9"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-tools/graphql-tag-pluck",
+    "version": "8.3.41"
+  },
+  {
+    "type": "npm",
+    "name": "@ardatan/relay-compiler",
+    "version": "13.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@prisma/config",
+    "version": "7.10.1"
+  },
+  {
+    "type": "npm",
+    "name": "jju",
+    "version": "1.4.0"
+  },
+  {
+    "type": "npm",
+    "name": "@react-native/debugger-frontend",
+    "version": "0.88.0"
+  },
+  {
+    "type": "npm",
+    "name": "@module-federation/sdk",
+    "version": "2.9.2"
+  },
+  {
+    "type": "npm",
+    "name": "@antfu/install-pkg",
+    "version": "2.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "detect-file",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@stripe/stripe-js",
+    "version": "10.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@vue/language-core",
+    "version": "3.3.13"
+  },
+  {
+    "type": "npm",
+    "name": "istanbul-lib-hook",
+    "version": "3.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "find-yarn-workspace-root",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@commitlint/rules",
+    "version": "21.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "fd-package-json",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@lezer/lr",
+    "version": "1.4.11"
+  },
+  {
+    "type": "npm",
+    "name": "read-cmd-shim",
+    "version": "7.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@prisma/fetch-engine",
+    "version": "7.10.1"
+  },
+  {
+    "type": "npm",
+    "name": "refractor",
+    "version": "5.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "read-package-json-fast",
+    "version": "6.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "cytoscape",
+    "version": "3.34.4"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-tools/json-file-loader",
+    "version": "8.0.38"
+  },
+  {
+    "type": "npm",
+    "name": "unstorage",
+    "version": "1.17.6"
+  },
+  {
+    "type": "npm",
+    "name": "executable",
+    "version": "4.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "get-port-please",
+    "version": "3.2.0"
+  },
+  {
+    "type": "npm",
+    "name": "@commitlint/read",
+    "version": "21.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "unicode-properties",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "light-my-request",
+    "version": "6.8.0"
+  },
+  {
+    "type": "npm",
+    "name": "pprof-format",
+    "version": "2.3.2"
+  },
+  {
+    "type": "npm",
+    "name": "@module-federation/runtime-core",
+    "version": "2.9.2"
+  },
+  {
+    "type": "npm",
+    "name": "caching-transform",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "cmd-shim",
+    "version": "9.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "@aws-sdk/lib-storage",
+    "version": "3.1152.0"
+  },
+  {
+    "type": "npm",
+    "name": "@zkochan/js-yaml",
+    "version": "0.0.11"
+  },
+  {
+    "type": "npm",
+    "name": "load-tsconfig",
+    "version": "0.2.5"
+  },
+  {
+    "type": "npm",
+    "name": "sync-fetch",
+    "version": "0.7.1"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-tools/code-file-loader",
+    "version": "8.1.43"
+  },
+  {
+    "type": "npm",
+    "name": "glob-to-regex.js",
+    "version": "1.3.1"
+  },
+  {
+    "type": "npm",
+    "name": "exsolve",
+    "version": "1.1.3"
+  },
+  {
+    "type": "npm",
+    "name": "@nestjs/mapped-types",
+    "version": "12.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "buildcheck",
+    "version": "0.0.7"
+  },
+  {
+    "type": "npm",
+    "name": "fontkit",
+    "version": "2.0.4"
+  },
+  {
+    "type": "npm",
+    "name": "flow-parser",
+    "version": "0.336.0"
+  },
+  {
+    "type": "npm",
+    "name": "package-hash",
+    "version": "4.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@react-native/babel-preset",
+    "version": "0.88.0"
+  },
+  {
+    "type": "npm",
+    "name": "process-on-spawn",
+    "version": "1.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@mermaid-js/parser",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@module-federation/error-codes",
+    "version": "2.9.2"
+  },
+  {
+    "type": "npm",
+    "name": "atomically",
+    "version": "2.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "stream-chain",
+    "version": "4.2.6"
+  },
+  {
+    "type": "npm",
+    "name": "formatly",
+    "version": "0.11.4"
+  },
+  {
+    "type": "npm",
+    "name": "@react-native/community-cli-plugin",
+    "version": "0.88.0"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-tools/graphql-file-loader",
+    "version": "8.1.24"
+  },
+  {
+    "type": "npm",
+    "name": "ts-invariant",
+    "version": "0.10.3"
+  },
+  {
+    "type": "npm",
+    "name": "@typescript/native-preview",
+    "version": "7.0.0-dev.20260707.2"
+  },
+  {
+    "type": "npm",
+    "name": "@graphql-tools/import",
+    "version": "7.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "bundle-require",
+    "version": "5.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "oxlint",
+    "version": "1.88.0"
+  },
+  {
+    "type": "npm",
+    "name": "v8flags",
+    "version": "4.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "load-esm",
+    "version": "1.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "nano-spawn",
+    "version": "2.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "@iconify/utils",
+    "version": "3.1.7"
+  },
+  {
+    "type": "npm",
+    "name": "@surma/rollup-plugin-off-main-thread",
+    "version": "2.2.3"
+  },
+  {
+    "type": "npm",
+    "name": "@expo/image-utils",
+    "version": "0.12.5"
+  },
+  {
+    "type": "npm",
+    "name": "@cypress/xvfb",
+    "version": "1.2.4"
+  },
+  {
+    "type": "npm",
+    "name": "recharts-scale",
+    "version": "0.4.5"
+  },
+  {
+    "type": "npm",
+    "name": "svix",
+    "version": "2.8.0"
+  },
+  {
+    "type": "npm",
+    "name": "@dotenvx/dotenvx",
+    "version": "2.38.0"
+  },
+  {
+    "type": "npm",
+    "name": "query-selector-shadow-dom",
+    "version": "1.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "@acemir/cssom",
+    "version": "0.9.32"
+  },
+  {
+    "type": "npm",
+    "name": "conventional-changelog-writer",
+    "version": "9.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "@eslint/compat",
+    "version": "2.1.1"
+  },
+  {
+    "type": "npm",
+    "name": "@mongodb-js/saslprep",
+    "version": "1.6.1"
+  },
+  {
+    "type": "npm",
+    "name": "png-js",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/resource-detector-container",
+    "version": "0.8.14"
+  },
+  {
+    "type": "npm",
+    "name": "pbf",
+    "version": "5.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/resource-detector-aws",
+    "version": "2.23.0"
+  },
+  {
+    "type": "npm",
+    "name": "@nuxt/opencollective",
+    "version": "0.4.1"
+  },
+  {
+    "type": "npm",
+    "name": "@expo/package-manager",
+    "version": "1.14.2"
+  },
+  {
+    "type": "npm",
+    "name": "colorjs.io",
+    "version": "0.7.1"
+  },
+  {
+    "type": "npm",
+    "name": "mini-svg-data-uri",
+    "version": "1.4.4"
+  },
+  {
+    "type": "npm",
+    "name": "resolve-protobuf-schema",
+    "version": "2.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "stubborn-fs",
+    "version": "2.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "nearley",
+    "version": "2.20.1"
+  },
+  {
+    "type": "npm",
+    "name": "@cucumber/gherkin",
+    "version": "42.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "stacktrace-js",
+    "version": "2.0.2"
+  },
+  {
+    "type": "npm",
+    "name": "stacktrace-gps",
+    "version": "3.1.2"
+  },
+  {
+    "type": "npm",
+    "name": "expo-modules-core",
+    "version": "58.0.22"
+  },
+  {
+    "type": "npm",
+    "name": "@rspack/binding",
+    "version": "2.2.9"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/instrumentation-aws-lambda",
+    "version": "0.75.0"
+  },
+  {
+    "type": "npm",
+    "name": "expo-modules-autolinking",
+    "version": "58.0.13"
+  },
+  {
+    "type": "npm",
+    "name": "@volar/typescript",
+    "version": "2.4.28"
+  },
+  {
+    "type": "npm",
+    "name": "oxc-resolver",
+    "version": "11.24.2"
+  },
+  {
+    "type": "npm",
+    "name": "bullmq",
+    "version": "6.3.15"
+  },
+  {
+    "type": "npm",
+    "name": "@electron/get",
+    "version": "5.1.0"
+  },
+  {
+    "type": "npm",
+    "name": "find-file-up",
+    "version": "2.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "marked-terminal",
+    "version": "7.3.0"
+  },
+  {
+    "type": "npm",
+    "name": "babel-plugin-react-compiler",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "pdf-lib",
+    "version": "1.17.1"
+  },
+  {
+    "type": "npm",
+    "name": "fast-json-parse",
+    "version": "1.0.3"
+  },
+  {
+    "type": "npm",
+    "name": "@opencode-ai/sdk",
+    "version": "1.19.3"
+  },
+  {
+    "type": "npm",
+    "name": "spawn-command",
+    "version": "1.0.0"
+  },
+  {
+    "type": "npm",
+    "name": "default-require-extensions",
+    "version": "3.0.1"
+  },
+  {
+    "type": "npm",
+    "name": "lib0",
+    "version": "0.2.119"
+  },
+  {
+    "type": "npm",
+    "name": "@storybook/react-dom-shim",
+    "version": "10.6.2"
+  },
+  {
+    "type": "npm",
+    "name": "node-machine-id",
+    "version": "1.1.12"
+  },
+  {
+    "type": "npm",
+    "name": "@opentelemetry/resource-detector-azure",
+    "version": "0.31.0"
+  },
+  {
+    "type": "npm",
+    "name": "@rushstack/rig-package",
+    "version": "0.7.4"
+  },
+  {
+    "type": "npm",
+    "name": "pdf-parse",
+    "version": "2.4.5"
+  },
+  {
+    "type": "npm",
+    "name": "sass-embedded",
+    "version": "1.105.2"
+  },
+  {
+    "type": "npm",
+    "name": "direction",
+    "version": "2.0.1"
+  }
+]

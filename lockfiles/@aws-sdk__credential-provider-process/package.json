@@ -1,0 +1,1 @@
+{"name":"zz-benign-probe-root","version":"1.0.0","private":true,"dependencies":{"@aws-sdk/credential-provider-process":"^3.972.74"}}

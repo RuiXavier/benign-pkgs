@@ -1,0 +1,1 @@
+{"name":"zz-benign-probe-root","version":"1.0.0","private":true,"dependencies":{"@stdlib/fs-read-file":"^0.2.3"}}

@@ -1,0 +1,4 @@
+work/
+untrusted/
+npm-cache/
+__pycache__/

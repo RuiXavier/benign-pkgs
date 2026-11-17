@@ -1,0 +1,1 @@
+{"name":"zz-benign-probe-root","version":"1.0.0","private":true,"dependencies":{"@napi-rs/wasm-runtime":"^1.2.5"}}
