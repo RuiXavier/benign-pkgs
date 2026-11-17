@@ -11,7 +11,7 @@ false positive.
 | File | What it is |
 | --- | --- |
 | `benign-1000.json` | The 1000 packages in the pipeline's npm entry format: `{"type": "npm", "name", "version"}` (`NpmTask` in jelly-taint's `benchmarks/tasks/JellyTask.py`). |
-| `benign-1000.csv` | The same 1000 with details: popularity tier, last week's downloads, sinks found in the package's own code (number of files per kind), an entry file that exists (the first of `main`, `module`, `exports`, `index.js`), code size, size of the production dependency tree, dependencies with install scripts. |
+| `benign-1000.csv` | The same 1000 with details: popularity tier, last week's downloads, sinks found in the package's own code (number of files per kind), an entry file that exists (the first of `main`, `module`, `exports`, `index.js`), code size, size of the production dependency tree, dependencies with install scripts, role (see [Role and threat model](#role-and-threat-model)). |
 | `lockfiles/<name>/` | The audited dependency tree of each package (`package.json` + `package-lock.json` of a small project that depends on it); `/` in a scoped name becomes `__` (`@babel/core` → `@babel__core`). |
 | `benign-without-sinks.json` | 3395 more packages that pass every check below except Snyk (not run on them) but whose own code uses no jelly-taint sink. |
 | `excluded.json` | Every other candidate with the reason it was dropped. |
@@ -71,6 +71,23 @@ Details of the checks:
 - **Re-check**: on 2026-11-17 the final 1000 were checked again in OSV (any version, and the exact version) and npm
   (the exact version): no advisories.
 
+## Role and threat model
+
+All 1000 are `library` (CSV columns `role` and `role_rule`) by the rules of `role` in jelly-taint-benchmarks'
+`SCHEMA.md`, first rule that applies: `extension` (`engines.vscode`), `action` (`action.yml`), `application` (an
+Electron application; a command-line program: `bin` and no `main`, `exports` or `index.js`; a main file that
+starts a server and exports nothing), `mcp` (creates a server of `@modelcontextprotocol/sdk`), `library` (an npm
+package with an API). `scripts/roles.py` applies them; on the 481 npm cases of jelly-taint-benchmarks it gives the
+role of their `case.json` for every case (173 `application`, 308 `library`). None of the 1000 is an application
+because the selection already requires a library entry file.
+
+The fitting threat model is the library one: the attacker is the caller of the package's API, i.e. jelly-taint's
+`--taint-source export`. jelly-taint-benchmarks' `SCHEMA.md` pairs `role: library` with jelly's `--library`, which
+is on by default for a package inside `node_modules` (as after installing a lockfile below). The pipeline script
+`jelly-taint-with-taint-source-export.json` uses `export` together with every other source category
+(`commandargs`, `environment`, `stdin`, `file`, `remote`, `database`, `ipc`) and adds the sinks `xss` and
+`open-redirect`.
+
 ## Limits
 
 - "Benign" means no **known** vulnerability: a package can still have an unreported one. A jelly-taint warning
@@ -112,6 +129,7 @@ python3 -I scripts/code.py work work/todo-code.json                           # 
 python3 -I scripts/select.py work .        # stops "not final yet", writes work/todo-snyk.json
 python3 -I scripts/snyk.py work work/todo-snyk.json                           # Snyk pages, 1 request/s
 python3 -I scripts/select.py work .        # writes the files above
+python3 -I scripts/roles.py work .                                            # CSV columns role, role_rule
 ```
 
 The 2026-11-16/17 run took these steps in a slightly different order (the candidate list started with tier 1
